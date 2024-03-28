@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/return-another/static/js/main.dce3b2fa.js",
+    "index.html": "/return-another/index.html",
+    "main.dce3b2fa.js.map": "/return-another/static/js/main.dce3b2fa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dce3b2fa.js"
+  ]
+}
